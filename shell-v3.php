@@ -117,7 +117,7 @@ if(get_magic_quotes_gpc()) {
 <html>
 <!--
 ###############################################################################
-// Thanks buat Orang-orang yg membantu dalam proses pembuatan shell ini.
+// Thanks buat Orang-orang yang membantu dalam proses pembuatan shell ini.
 // Shell ini tidak sepenuhnya 100% Coding manual, ada beberapa function dan tools kita ambil dari shell yang sudah ada.
 // Tapi Selebihnya, itu hasil kreasi IndoXploit sendiri.
 // Tanpa kalian kita tidak akan BESAR seperti sekarang.
